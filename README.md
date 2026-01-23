@@ -31,6 +31,15 @@ An iOS app that uses machine learning to identify plant diseases from leaf image
 - **Feature Extractor**: Image Feature Print V1
 - **Input Size**: 299x299 pixels
 
+## 📦 Dataset
+
+The PlantVillage dataset is too large to include in this repository.
+
+**Download dataset:**
+- Source: [PlantVillage on Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
+- Size: ~500MB compressed
+- Place in project root after downloading
+
 ### Supported Crops & Diseases
 
 Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach, Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, Tomato
