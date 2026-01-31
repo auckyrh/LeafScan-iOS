@@ -2,7 +2,7 @@
 
 An iOS app that uses machine learning to identify plant diseases from leaf images in real-time.
 
-![App Icon](screenshots/1024.PNG)
+![App Icon](screenshots/1024.png)
 
 ## 📱 Features
 
