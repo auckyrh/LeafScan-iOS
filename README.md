@@ -2,7 +2,7 @@
 
 An iOS app that uses machine learning to identify plant diseases from leaf images in real-time.
 
-![App Icon](screenshots/1024.png)
+<img src="screenshots/1024.png" width="200">
 
 ## 📱 Features
 
@@ -56,13 +56,13 @@ Diseases include: Black Rot, Powdery Mildew, Early Blight, Late Blight, Leaf Mol
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/LeafScan-iOS.git
+git clone https://github.com/auckyrh/LeafScan-iOS.git
 ```
 
 2. Open the project:
 ```bash
-   cd LeafScan-iOS
-   open LeafScan.xcodeproj
+cd LeafScan-iOS
+open LeafScan.xcodeproj
 ```
 
 3. Run on your iPhone:
@@ -79,7 +79,7 @@ Diseases include: Black Rot, Powdery Mildew, Early Blight, Late Blight, Leaf Mol
 3. **Inference**: Core ML model predicts the disease class
 4. **Results**: App displays disease name with confidence score
 
-## 🏗️ Project Structure
+## 🗂️ Project Structure
 ```
 LeafScan/
 ├── LeafScan/
@@ -127,11 +127,20 @@ LeafScan/
 - [ ] Share results feature
 - [ ] Multi-language support
 
+## 🎯 Portfolio Context
+
+This is my first portfolio project for the **Apple Developer Institute for AI/ML @ UC Surabaya** admission (Cohort 2026). It demonstrates my ability to integrate machine learning into iOS applications while leveraging my experience as an Apple Developer Academy Alumni (2021).
+
+**Other Portfolio Projects:**
+- [Indonesia Property Price Prediction](https://github.com/auckyrh/indonesia-property-price-prediction) - ML model comparing regression algorithms for property pricing
+- [Next Level Properti](https://github.com/swrhythm/wpi-project) - Property listing web application (Laravel) - [https://nextlevelproperti.com]
+
 ## 👨‍💻 Developer
 
 **Aucky Riman Halim**
 - Apple Developer Academy Alumni (2021)
-- Applying for Apple Developer Institute for AIML @ UC Surabaya (2026)
+- Full Stack Web Developer expanding into AI/ML
+- Applying for Apple Developer Institute for AIML @ UC Surabaya (Cohort 2026)
 
 ## 📄 License
 
@@ -142,3 +151,8 @@ This project is created for educational purposes as part of Apple Developer Inst
 - **Dataset**: PlantVillage Dataset
 - **Apple**: Create ML, Core ML, and Vision Framework
 - Built during portfolio preparation for Apple Developer Institute for AIML
+
+## 📧 Contact
+
+- **GitHub**: [https://github.com/auckyrh](https://github.com/auckyrh)
+- **LinkedIn**: [https://www.linkedin.com/in/aucky/](https://www.linkedin.com/in/aucky/)
