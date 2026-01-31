@@ -14,7 +14,7 @@ An iOS app that uses machine learning to identify plant diseases from leaf image
 
 ## 🖼️ Screenshots
 
-<img src="screenshots/03-empty-state-light.PNG" width="200"> <img src="screenshots/05-analyzing.PNG" width="200"> <img src="screenshots/06-pepper-bell-bacterial-spot.PNG" width="200">
+<img src="screenshots/03-empty-state-light.PNG" width="200"> <img src="screenshots/gallery-image-selection.PNG" width="200"> <img src="screenshots/05-analyzing.PNG" width="200"> <img src="screenshots/06-pepper-bell-bacterial-spot.PNG" width="200">
 
 ## 🛠️ Technologies Used
 
